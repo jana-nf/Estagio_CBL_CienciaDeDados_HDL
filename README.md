@@ -1,4 +1,4 @@
-# Estagio_CBL_DS
+# Estagio_CBL_CiênciaDeDados_HDL
 Protótipo de pipeline de dados (ETL/ELT) desenvolvido com Python, Pandas, SQL e GIT, seguindo a metodologia Challenge-Based Learning (CBL) para estágio em Ciência de Dados.
 
 # 🚀 Fase 1: Engajamento (Big Idea & Essential Question)
