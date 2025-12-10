@@ -184,3 +184,9 @@ O insight encontrado ("A categoria de produto de maior margem tem o maior tempo 
 Ele transforma um dado descritivo em uma oportunidade de melhoria processual. 
 O "cliente" (Logística) pode agora investigar se o atraso está no picking, packing ou no transporte. 
 Este resultado demonstra que o pipeline está alinhado com a estratégia de negócio, entregando um produto de alta qualidade (relevância) que resolve uma "dor" da operação, ao invés de apenas gerar gráficos bonitos.
+
+# Dataset do Projeto 
+
+Disponível em:
+
+[Dataset Público de E-commerce Brasileiro da Olist (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download)
